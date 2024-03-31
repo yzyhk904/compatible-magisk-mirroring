@@ -1,3 +1,8 @@
+
+**This repository has been moved to ["Magisk-Modules-Alt-Repo"](https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring "Compatible Magisk-mirroring").**
+<br/>
+<br/>
+
 ## Compatible Magisk-mirroring
 This module provides the compatible Magisk-mirroring (i.e., unmodified original system files (in a mounted state) mainly referred from the module installation script "customize.sh") for installing pure Magisk modules on incompatible Magisk variants and KernelSU.
 <br/>
